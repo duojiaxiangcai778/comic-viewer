@@ -1,0 +1,1 @@
+﻿2345Pic.webp	"D:\D\2345pic\2345PicViewer.exe" "%1"

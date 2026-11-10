@@ -1,0 +1,7 @@
+# 构建产物副本（与根目录成品重复）
+dist/
+
+# 备份配置与旧版本文件
+*.bak
+*.bak-*
+ComicViewer.backup.ini
